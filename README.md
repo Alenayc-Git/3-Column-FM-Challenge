@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Site]()
-- Live Site URL: [Site]()
+- Solution URL: [Site-Fm](https://www.frontendmentor.io/solutions/responsive-card-3-column-component-using-flexbox-S6lKJY_PLX)
+- Live Site URL: [Site-Url](https://3columnfmchallenge.netlify.app/)
 
 ## My process
 
